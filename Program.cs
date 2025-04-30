@@ -1,6 +1,6 @@
 ﻿char[] s = "Hannah".ToCharArray();
 ReverseString(s);
-Console.WriteLine(s.ToString();
+Console.WriteLine(s.ToString());
 
 void ReverseString(char[] s)
 {
